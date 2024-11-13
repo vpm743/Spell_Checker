@@ -1,3 +1,4 @@
+#spell check program
 from spellchecker import SpellChecker
 
 spell = SpellChecker()
