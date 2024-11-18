@@ -11,5 +11,5 @@ def correct_word(word):
         # This part is for if the word is not misspelled, find the nearest words
         return spell.candidates(word)
     
-enter_word=input("Enter Word Here :- ")
-print(correct_word(enter_word))
+enter_words=input("Enter Word Here :- ")
+print(correct_word(enter_words))
