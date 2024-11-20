@@ -1,1 +1,1 @@
-The check the spelling of words
+#The check the spelling of words
